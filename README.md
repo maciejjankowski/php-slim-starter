@@ -7,5 +7,6 @@ composer require slim/psr7
 ```
 
 
-The files should look like this
+The files should look like this:
+
 ![files](screenshot.png)
